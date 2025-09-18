@@ -1,0 +1,62 @@
+# 🧪 SOC Readiness Lab
+
+A hands-on lab designed to build foundational cybersecurity skills for aspiring SOC analysts. This project blends systems development discipline with real-world security workflows, helping me transition confidently into the cybersecurity field.
+
+---
+
+## 📌 Project Overview
+
+This lab simulates core SOC analyst tasks using free, open-source tools and OS-level exercises. It’s modular, documented, and built for iterative learning—ideal for anyone building Tier 1 SOC skills from the ground up.
+
+---
+
+## 🧰 Technologies Used
+
+- Bash & CLI tools (Linux/Windows)
+- Log analysis utilities (e.g., `grep`, `tail`, `less`)
+- Basic networking tools (`ping`, `netstat`, `traceroute`)
+- Markdown for documentation
+- Git for version control and lab tracking
+
+---
+
+## 🚀 Features
+
+- Modular lab exercises grouped by skill domain (OS, networking, detection)
+- Study tracker with weekly goals and reflections
+- README notes for each module to reinforce documentation habits
+- Simulated SOC workflows: log parsing, file integrity checks, basic triage
+- Designed for solo learners or peer collaboration
+
+---
+
+## 🧠 Why I Built This Lab and How It Supports SOC Readiness
+
+As a systems development graduate pivoting into cybersecurity, I built this lab to bridge the gap between theory and practice. My goal was to create a hands-on environment where I could internalize core SOC analyst skills—especially those related to operating systems, network fundamentals, and threat detection workflows.
+
+This lab is more than a study space—it's a personal bootcamp designed to:
+
+- 🔍 **Reinforce foundational knowledge**  
+  By working directly with OS internals, CLI tools, and basic network configurations, I deepen my understanding of how systems behave under normal and abnormal conditions.
+
+- 🛡️ **Simulate real-world SOC tasks**  
+  I replicate scenarios like log analysis, file integrity checks, and basic incident triage to mirror the day-to-day responsibilities of a Tier 1 SOC analyst.
+
+- 🧪 **Encourage iterative learning**  
+  Mistakes are part of the process. This lab allows me to experiment, break things, and rebuild—strengthening my troubleshooting instincts and resilience.
+
+- 📚 **Track progress and build documentation discipline**  
+  Every module includes README notes, study trackers, and reflection logs to build the habit of clear documentation—essential for SOC handovers and ticketing systems.
+
+- 🧰 **Integrate development and security thinking**  
+  With my full-stack background, I approach security from both the developer and defender perspective. This lab helps me think modularly, automate repeatable tasks, and design secure-by-default workflows.
+
+Ultimately, this lab is my way of proving to myself—and future employers—that I’m serious about SOC readiness. It’s a space where curiosity meets discipline, and where every command typed is a step closer to becoming a confident cybersecurity professional.
+
+---
+
+## 🛠️ Setup Instructions
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/soc-readiness-lab.git
